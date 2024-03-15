@@ -47,4 +47,11 @@ This is a modern and stylish login page created using HTML, CSS, JavaScript, Boo
 3. **Bootstrap Components**: Use Bootstrap classes and components to customize the layout and styling of the login page further.
 
 4. **Font Awesome Icons**: Replace or add Font Awesome icons in the `index.html` file to suit your design preferences.
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request with any improvements or additional features.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ---
