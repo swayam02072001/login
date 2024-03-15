@@ -28,7 +28,7 @@ This is a modern and stylish login page created using HTML, CSS, JavaScript, Boo
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/login-page.git
+    git clone https://github.com/swayam02072001/login-page.git
     ```
 
 2. Open the `index.html` file in your web browser.
